@@ -1,0 +1,28 @@
+﻿<ScriptInfo>
+
+	<Information>
+		<Name>My Status</Name>
+		<Description>Quantas janelas abertas? Quantos online/offline? Com quem está papeando? Saiba com o My Status!</Description>
+		<Author>Eduardo</Author>
+		<AboutUrl>http://e3duardo.blogspot.com/</AboutUrl>
+	</Information>
+
+	<ScriptCommands>
+		<Command>
+			<Name>ativar</Name>
+			<Description>Ativar</Description>
+		</Command>
+		<Command>
+			<Name>desativar</Name>
+			<Description>Desativar</Description>
+		</Command>
+	</ScriptCommands>
+
+	<ScriptMenu>
+		<MenuEntry Id="ativar">Ativar</MenuEntry>
+		<MenuEntry Id="desativar">Desativar</MenuEntry>
+		<Separator/>
+		<MenuEntry Id="sobre">Sobre</MenuEntry>
+	</ScriptMenu>
+
+</ScriptInfo>
